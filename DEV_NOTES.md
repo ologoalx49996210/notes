@@ -18,3 +18,7 @@ Personal development log — notes, findings, and ongoing work.
 - Improved error handling in edge cases
 - Added basic usage examples to README
 - Tested build on clean environment
+
+## 2026-03-23
+- Noted known limitation in docs
+- Documented config options
